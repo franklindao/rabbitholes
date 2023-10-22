@@ -1,5 +1,5 @@
-# Rabbitholes
-Resources for getting started down various rabbitholes, created by members as they learn.
+# Reading Group Resources Template
+Resources for readings groups (ZK, Defi/MEV, security, public goods)
 
 Table of Contents
 =================
