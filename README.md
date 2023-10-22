@@ -13,11 +13,11 @@ Table of Contents
 1. Week 1
   - [Reading 1 Name](link)
   - [Reading 2 Name](https://zkp.science)
-3. Week 2
+2. Week 2
   - [Reading 1 Name](link)
-4. Week 3
+3. Week 3
   - [Reading 1 Name](link)
-5. Week 4
+4. Week 4
   - [Reading 1 Name](link)
 ## Beginners
 - [Prerequisite understanding questions](https://0xparc.notion.site/Prerequisite-understanding-questions-c5ebb77a5cc049f39577ec9a7fb7b22c)
