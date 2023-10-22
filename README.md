@@ -1,14 +1,14 @@
-# Reading Group Resources Template
+# Learning Group Resources Template
 Resources for readings groups (ZK, Defi/MEV, security, public goods)
 
 Table of Contents
 =================
-* [Learning Group Weekly Readings](#Weekly Readings)
-* [Beginnner Readings](#beginner)
-* [Blogs](#blogs)
-* [Research/Academia](#research/academia)
-* [Applications](#applications)
-* [Textbooks](#textbooks)
+- [Learning Group Weekly Readings and Agenda](#weekly-readings)
+- [Beginnner Readings](#beginner)
+- [Blogs](#blogs)
+- [Research/Academia](#research/academia)
+- [Applications](#applications)
+- [Textbooks](#textbooks)
 ## Weekly Readings
 1. Week 1
   - [Reading 1 Name](link)
